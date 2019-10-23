@@ -1,0 +1,29 @@
+UDP Multicast:
+--------------------------------------------------------------------------------
+https://www.cs.utah.edu/~swalton/Documents/Articles/Multicasting-1.pdf
+https://developer.ridgerun.com/wiki/index.php/Using_UDP_Multicast_with_GStreamer
+
+GStreamer TCP and H.264 Problems and Solutions:
+--------------------------------------------------------------------------------
+http://gstreamer-devel.966125.n4.nabble.com/h-264-Video-Streaming-over-TCP-td4658747.html
+
+About RTP
+--------------------------------------------------------------------------------
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Intro_to_RTP
+
+About MPEG-TS
+--------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/MPEG_transport_stream
+
+General H.264 Streaming with GStreamer
+--------------------------------------------------------------------------------
+Note: This uses old gstreamer stuff. It has been adapted for the examples in this repo.
+https://stackoverflow.com/questions/7669240/webcam-streaming-using-gstreamer-over-udp
+https://stackoverflow.com/questions/43454333/simple-encode-and-decode-pipeline-with-gstreamer
+
+About OMXH264 and using it on desktop systems for decode
+--------------------------------------------------------------------------------
+https://devtalk.nvidia.com/default/topic/1032194/linux/missing-omxh264enc-on-ubuntu-18-04-after-installation/
+https://www.raspberrypi.org/forums/viewtopic.php?t=106455
+
+
