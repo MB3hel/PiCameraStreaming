@@ -1,0 +1,7 @@
+- Use input format mjpeg
+- Use input format H w/ pi camera
+- Test with USB cameras
+- Test with multiple cameras
+- Figure out how to reduce USB bus bandwidth with v4l2 driver for USB webcams (so three can be connected)
+- Test with streaming three cameras
+- Start on boot method
