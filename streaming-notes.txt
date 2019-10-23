@@ -1,0 +1,11 @@
+https://developer.ridgerun.com/wiki/index.php/Using_UDP_Multicast_with_GStreamer
+
+http://gstreamer-devel.966125.n4.nabble.com/h-264-Video-Streaming-over-TCP-td4658747.html
+
+https://stackoverflow.com/questions/7669240/webcam-streaming-using-gstreamer-over-udp
+
+https://devtalk.nvidia.com/default/topic/1032194/linux/missing-omxh264enc-on-ubuntu-18-04-after-installation/
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=106455
+
+
