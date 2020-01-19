@@ -26,7 +26,11 @@ sudo apt install gstreamer1.0-vaapi vdpau-va-driver vainfo
 ```
 
 ### Windows streaming setup
-...
+- Use the following ffplay command
+
+```
+ffplay -fflags nobuffer -probesize 32 -flags low_delay -framedrop tcp://HOST_NAME:PORT_NUMBER/
+```
 
 
 ## Communication Protocols
